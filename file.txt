@@ -1,0 +1,21 @@
+Early Ideas (1940s-1950s):
+
+Alan Turing proposed machines could simulate human intelligence.
+Mathematical theories laid the foundation for algorithms.
+Symbolic AI (1950s-1970s):
+
+Focused on rule-based reasoning and simple AI programs like ELIZA.
+Machine Learning (1980s-1990s):
+
+Shifted to training machines to learn from data.
+Neural networks, inspired by the brain, were developed.
+Big Data & Hardware (2000s):
+
+Explosion of data and powerful GPUs enabled more advanced models.
+Modern AI (2010s-Present):
+
+Deep learning models excel in tasks like image and speech recognition.
+AI is now widely used in healthcare, finance, and more.
+Ethics & Responsibility:
+
+Focus on transparency, fairness, and accountability in AI systems.
